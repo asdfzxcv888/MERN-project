@@ -14,7 +14,9 @@ const Landing = () => {
         <div   className='info'>
             <h1>job<span>tracking</span>app</h1>
 
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo quae nam obcaecati tempora voluptatum magnam quisquam officia quis quod cumque dolorum, sit dolor in? Quibusdam, ipsum iure. Saepe voluptas earum iste aliquam explicabo nemo eos excepturi repudiandae? Quo nihil possimus, ratione voluptas, enim vitae labore saepe soluta rerum iure amet.</p>
+            <p>We are thrilled to welcome you to our innovative job application and management site, where your career journey begins or takes a new and exciting turn! Our platform is designed with you in mind, aiming to simplify and enhance every step of your job application and management process
+Embark on a seamless job search experience that empowers you to discover exciting opportunities tailored to your skills and aspirations.
+</p>
            
            <Link to='/register'><button className='btn btn-hero'>Login</button></Link>
             
